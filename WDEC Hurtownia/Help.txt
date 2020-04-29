@@ -1,0 +1,1 @@
+Biblioteka LAB6 ma byc skierowana do folderu newData
